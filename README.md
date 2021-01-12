@@ -39,8 +39,11 @@
 
 ---
 
-  <img align="left" alt="matheusbrito00´s GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=matheusbrito00&show_icons=true&hide_border=true" />
+![matheusbrito00's github stats](https://github-readme-stats.vercel.app/api/?username=matheusbrito00&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
 
+---
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=matheusbrito00&langs_count=8)](https://github.com/matheusbrito00/github-readme-stats)
 
 [facebook]: https://www.facebook.com/profile.php?id=100002393580731
 [instagram]: https://www.instagram.com/batheus.mrito/

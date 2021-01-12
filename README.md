@@ -4,7 +4,7 @@
 
 ## Sou atualmente estudande de Ciências da Computação na Universidade Federal de Uberlândia, estágiario em testes de QA e amante de javascript e front-end!!
 
-- 👨🏽‍🎓 Estou atualmente no 5° periodo do curso
+- 👨🏽‍🎓 Estou atualmente no 5° periodo
 - 💻 Participei do [Hack-for-life][certificado] em 2020
 - 👨🏽‍💼 Sou estágiario de Testes QA atualmente 
 - ⚽ Amo praticar qualquer tipo de esporte

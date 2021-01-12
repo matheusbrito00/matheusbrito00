@@ -2,11 +2,11 @@
 
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-222222?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sudiptoghosh99/)](linkedin)
 
-## Sou atualmente estudande de Ciências da Computação na Universidade Federal de Uberlândia, estágiario em testes de QA e amante de javascript e front-end!!
+## Sou atualmente estudande de Ciências da Computação na Universidade Federal de Uberlândia, desenvolvedor fullstack javascript e amante de Front-end!!
 
 - 👨🏽‍🎓 Estou atualmente no 5° periodo
 - 💻 Participei do [Hack-for-life][certificado] em 2020
-- 👨🏽‍💼 Sou estágiario de Testes QA atualmente 
+- 👨🏽‍💼 Atualmente sou estágiario de Testes QA
 - ⚽ Amo praticar qualquer tipo de esporte
 - 🍻 Não dispenso uma cervejinha com os amigos
 

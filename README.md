@@ -4,7 +4,7 @@
 
 ## Sou atualmente estudante de Ciências da Computação na Universidade Federal de Uberlândia, desenvolvedor fullstack javascript e amante de Front-end!!
 
-- 👨🏽‍🎓 Estou atualmente no 5° periodo
+- 👨🏽‍🎓 Estou atualmente no 6° periodo
 - 💻 Participei do [Hack-for-life][certificado] em 2020
 - 👨🏽‍💼 Atualmente sou estágiario de Testes QA
 - ⚽ Amo praticar qualquer tipo de esporte

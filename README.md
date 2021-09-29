@@ -6,7 +6,7 @@
 
 - 👨🏽‍🎓 Estou atualmente no 6° periodo
 - 💻 Participei do [Hack-for-life][certificado] em 2020
-- 👨🏽‍💼 Atualmente sou estágiario de Testes QA
+- 👨🏽‍💼 Atualmente sou estágiario Dev Front-End
 - ⚽ Amo praticar qualquer tipo de esporte
 - 🍻 Não dispenso uma cervejinha com os amigos
 

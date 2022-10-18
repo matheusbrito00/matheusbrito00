@@ -2,12 +2,10 @@
 
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-222222?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sudiptoghosh99/)](linkedin)
 
-## Sou atualmente estudante de Ciências da Computação na Universidade Federal de Uberlândia, desenvolvedor fullstack javascript e amante de Front-end!!
-
-- 👨🏽‍🎓 Estou atualmente no 6° periodo
+- 👨🏽‍🎓 Estudante de Ciências da Computação na Universidade Federal de Uberlândia
 - 💻 Participei do [Hack-for-life][certificado] em 2020
-- 👨🏽‍💼 Atualmente sou estágiario Dev Front-End
-- ⚽ Amo praticar qualquer tipo de esporte
+- 👨🏽‍💼 Desenvolvedor Front-End
+- ⚽ Praticante/Amante de Esportes
 - 🍻 Não dispenso uma cervejinha com os amigos
 
 

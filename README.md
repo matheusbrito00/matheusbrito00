@@ -41,6 +41,8 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=matheusbrito00&langs_count=8)](https://github.com/matheusbrito00/github-readme-stats)
 
+---
+
 [facebook]: https://www.facebook.com/profile.php?id=100002393580731
 [instagram]: https://www.instagram.com/batheus.mrito/
 [linkedin]: https://www.linkedin.com/in/matheusbrito00/

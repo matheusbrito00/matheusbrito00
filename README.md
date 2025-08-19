@@ -4,7 +4,7 @@
 
 - 👨🏽‍🎓 Estudante de Ciências da Computação na Universidade Federal de Uberlândia
 - 💻 Participei do [Hack-for-life][certificado] em 2020
-- 👨🏽‍💼 Desenvolvedor Front-End há 3 anos
+- 👨🏽‍💼 Desenvolvedor Front-End desde 2021
 - ⚽ Praticante/Amante de Esportes
 - 🍻 Não dispenso uma cervejinha com os amigos
 

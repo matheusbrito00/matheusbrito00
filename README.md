@@ -5,6 +5,7 @@
 - 👨🏽‍🎓 Estudante de Ciências da Computação na Universidade Federal de Uberlândia
 - 💻 Participei do [Hack-for-life][certificado] em 2020
 - 👨🏽‍💼 Desenvolvedor Front-End desde 2021
+- 💼 Utilizo como principais ferramentas o AngularJS e React/Next para criação de interfaces modernas e performáticas, com foco em usabilidade.
 - ⚽ Praticante/Amante de Esportes
 - 🍻 Não dispenso uma cervejinha com os amigos
 
@@ -35,13 +36,13 @@
 
 ---
 
-![matheusbrito00's github stats](https://github-readme-stats.vercel.app/api/?username=matheusbrito00&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=matheusbrito00&langs_count=8)](https://github.com/matheusbrito00/github-readme-stats)
 
 ---
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=matheusbrito00&langs_count=8)](https://github.com/matheusbrito00/github-readme-stats)
+![matheusbrito00's github stats](https://github-readme-stats.vercel.app/api/?username=matheusbrito00&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
 
 [facebook]: https://www.facebook.com/profile.php?id=100002393580731
-[instagram]: https://www.instagram.com/batheus.mrito/
+[instagram]: https://www.instagram.com/matheusbrit00/
 [linkedin]: https://www.linkedin.com/in/matheusbrito00/
 [certificado]: https://iftm.edu.br/sistema-eventos/controlador/certificadoModeloLiberado/carregarCertificadoPdf.php?eventosCertificadoModeloLiberadoId=6986&eventosInscricaoAtividadeId=3900&legado=

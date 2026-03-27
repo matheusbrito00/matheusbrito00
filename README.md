@@ -2,10 +2,10 @@
 
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-222222?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sudiptoghosh99/)](linkedin)
 
-- 👨🏽‍🎓 Estudante de Ciências da Computação na Universidade Federal de Uberlândia
+- 👨🏽‍🎓 Formado em Ciências da Computação na Universidade Federal de Uberlândia
 - 💻 Participei do [Hack-for-life][certificado] em 2020
-- 👨🏽‍💼 Desenvolvedor Front-End desde 2021
-- 💼 Utilizo como principais ferramentas o AngularJS e React/Next para criação de interfaces modernas e performáticas, com foco em usabilidade.
+- 👨🏽‍💼 Desenvolvedor Front-End desde 2021 e atualmente atuando como desenvolvedor Fullstack
+- 💼 Utilizo como principais ferramentas o AngularJS e React/Next para criação de interfaces modernas e performáticas, com foco em usabilidade. Como ferramentas no desenvolvimento backend utilizo Node.js e Python/FastAPI 
 - ⚽ Praticante/Amante de Esportes
 - 🍻 Não dispenso uma cervejinha com os amigos
 
